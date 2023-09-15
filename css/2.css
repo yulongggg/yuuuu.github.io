@@ -1,0 +1,15 @@
+.wenzhang {
+	width: 1450px;
+	height: auto;
+	border:1px darkorange solid ;
+	margin:50px auto;
+	text-align: center;
+	
+}
+#zhengwen{
+	font-size: 25px;
+	font-family: 微软雅黑;
+	line-height: 30px;
+	text-align: left;
+	line-height: 50px;
+}
